@@ -1,4 +1,14 @@
 title: "OSU-Overclcoking Wiki"
 baseURL: https://wiki.osuoverclocking.com
 theme: hugo-book
+enableGitInfo: true
+
+params:
+  BookTheme: 'auto'
+  BookLogo: 'https://osuoverclocking.com/img/favicon.png'
+  BookSection: 'docs'
+  BookRepo: 'https://github.com/osu-overclocking/wiki.osuoverclocking.com'
+  BookCommitPath: 'commit'
+  BookDateFormat: 'Jan 2, 2006'
+  BookEditPath: 'tree/master'
 

@@ -1,6 +1,6 @@
 ---
-title: "Docs"
-weight: 1
+title: "CPU"
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -9,4 +9,6 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-## Hello
+# hello
+
+asddf
